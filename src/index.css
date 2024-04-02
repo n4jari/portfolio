@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url("./assets/fonts/Ubuntu-Regular.eot");
+  src: url("./assets/fonts/Ubuntu-Regular.eot?#iefix")
+      format("embedded-opentype"),
+    url("./assets/fonts/Ubuntu-Regular.woff2") format("woff2"),
+    url("./assets/fonts/Ubuntu-Regular.woff") format("woff"),
+    url("./assets/fonts/Ubuntu-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu";
+
+}
+
+/* Pink:#8685EF
+Silver:#D3D3D3
+White:#FAF8FF
+gray:#B8B5C8 */
+/* 
+black : "#090C16"
+sky:"#4B90F8"
+white;"#F6F9FF"
+gray #182238 */
