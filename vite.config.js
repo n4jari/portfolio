@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // base: "https://n4jari.github.io/portfolio",
+  base: "https://portfolio-ten-theta-67.vercel.app/",
   plugins: [react()],
 });
